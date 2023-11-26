@@ -1,0 +1,25 @@
+h2{ 
+    color: white;
+    justify-content: right;
+}
+
+p {
+    color: white;
+    text-decoration: double;
+    font-size:large;
+    text-align: center;
+}
+
+
+ul {
+    color: white;
+}
+
+li{
+    color: white;
+    font-size: smaller;
+}
+
+h1{
+    color: white;
+}
